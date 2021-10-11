@@ -1,11 +1,10 @@
 <div>
   <h1 align="center"><a href="https://epicreact.dev/hooks">🎣 React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
-    There are better patterns and practices that are an entirely new approach to
-    developing components and managing state in your React applications.
+    Learn the ins and outs of React Hooks. 
   </strong>
   <p>
-    Learn the ins and outs of React Hooks. I will take you on a deep dive into
+    I will take you on a deep dive into
     React Hooks, and show you what you need to know to start using them in your
     applications right away.
   </p>
@@ -141,7 +140,7 @@ Each exercise has comments in it to help you get through the exercise. These fun
 emoji characters are here to help you.
 
 - **Kody the Koala** 🐨 will tell you when there's something specific you should
-  do version
+  do
 - **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
   along the way
 - **Hannah the Hundred** 💯 will give you extra challenges you can do if you
@@ -184,7 +183,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/flofehrenbacher"><img src="https://avatars0.githubusercontent.com/u/18660708?v=4?s=100" width="100px;" alt=""/><br /><sub><b>flofehrenbacher</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=flofehrenbacher" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/pritamsangani/"><img src="https://avatars3.githubusercontent.com/u/22857896?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pritam Sangani</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=PritamSangani" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/emzoumpo"><img src="https://avatars2.githubusercontent.com/u/2103443?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emmanouil Zoumpoulakis</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=emzoumpo" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://peter.hozak.info/"><img src="https://avatars0.githubusercontent.com/u/1087670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Hozák</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=Aprillion" title="Code">💻</a></td>
+    <td align="center"><a href="http://peter.hozak.info/"><img src="https://avatars0.githubusercontent.com/u/1087670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Hozák</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=Aprillion" title="Code">💻</a> <a href="https://github.com/kentcdodds/react-hooks/commits?author=Aprillion" title="Documentation">📖</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/timobleeker"><img src="https://avatars0.githubusercontent.com/u/2723586?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=timobleeker" title="Documentation">📖</a></td>
@@ -220,6 +219,11 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/lionheart"><img src="https://avatars.githubusercontent.com/u/38447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dan Loewenherz</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=dlo" title="Code">💻</a></td>
     <td align="center"><a href="https://prabhuwali.me/"><img src="https://avatars.githubusercontent.com/u/40115160?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shivaprabhu</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=shivaprabhu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.jacobparis.com/"><img src="https://avatars.githubusercontent.com/u/5633704?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob Paris</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=JacobParis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Eik-S"><img src="https://avatars.githubusercontent.com/u/9152141?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eike Mücksch</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=Eik-S" title="Tests">⚠️</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://pavlos.dev"><img src="https://avatars.githubusercontent.com/u/100233?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavlos Vinieratos</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=pvinis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mokajima.com/"><img src="https://avatars.githubusercontent.com/u/10166985?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Misaki Okajima</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=mokajima" title="Code">💻</a> <a href="https://github.com/kentcdodds/react-hooks/commits?author=mokajima" title="Documentation">📖</a></td>
   </tr>
 </table>
 
